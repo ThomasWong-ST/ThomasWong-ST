@@ -1,7 +1,7 @@
-## Hi there 👋
+##Hi there 👋 Welcome to my GitHub page! I’ve uploaded some of my work from my physics degree. Although my current research deviates from my original studies, I still enjoy discussing any topic in physics!
 
-- 🔭 Outside of my PhD I’m currently working on learning reinforcement learning, which I will implement down the line in my research.
-- ⚡ Fun facts about myself: I'm a big fan of Star Wars, I love exercising (Recently I'm into bouldering!), and I've a coffee rating chart that I keep track of and update when I try new coffee spots.
+- 🔭 Outside of my PhD, I’m currently learning reinforcement learning, which I plan to implement in my future research.
+- ⚡ Fun facts about me: I’m a big Star Wars fan, I love exercising (lately I’ve been into bouldering!), and I keep a coffee-rating chart that I update whenever I try a new coffee spot.
 <!--
 **ThomasWong-ST/ThomasWong-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
