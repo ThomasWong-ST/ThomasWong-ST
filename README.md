@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 Outside of my PhD I’m currently working on learning reinforcement learning, which I will implement down the line in my research.
+- ⚡ Fun facts about myself: I'm a big fan of Star Wars, I love exercising (Recently I'm into bouldering!), and I've a coffee rating chart that I keep track of and update when I try new coffee spots.
 <!--
 **ThomasWong-ST/ThomasWong-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
