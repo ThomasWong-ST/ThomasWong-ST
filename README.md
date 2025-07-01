@@ -1,4 +1,4 @@
-##Hi there 👋 Welcome to my GitHub page! I’ve uploaded some of my work from my physics degree. Although my current research deviates from my original studies, I still enjoy discussing any topic in physics!
+## Hi there 👋 Welcome to my GitHub page! I’ve uploaded some of my work from my physics degree. Although my current research deviates from my original studies, I still enjoy discussing any topic in physics!
 
 - 🔭 Outside of my PhD, I’m currently learning reinforcement learning, which I plan to implement in my future research.
 - ⚡ Fun facts about me: I’m a big Star Wars fan, I love exercising (lately I’ve been into bouldering!), and I keep a coffee-rating chart that I update whenever I try a new coffee spot.
